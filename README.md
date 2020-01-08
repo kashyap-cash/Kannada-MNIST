@@ -1,7 +1,4 @@
 # Kannada-MNIST
 
-1. Install TensorFlow
-2. Download the dataset
-3. Install Keras
-4. Submit the file
-5. The submitted file is CSV format.
+1. Problem Statement
+The goal of this competition is to classify hand written image of kannada language digit recognition. The goal also includes to joining the kaggle competition and submitting the code.
